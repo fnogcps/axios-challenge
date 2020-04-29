@@ -11,6 +11,6 @@
   "keywords": [],
   "license": "ISC",
   "devDependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.19.2"
   }
 }
